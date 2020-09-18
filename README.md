@@ -1,14 +1,14 @@
 # catkin_ws3
 If you have installed ROS before then run followings:
-## ensure there are no ros packages
+### ensure there are no ros packages
 ```
 sudo apt-get remove --autoremove ros-*
 ```
-## check for updates
+### check for updates
 ```
 sudo apt update
 ```
-## ensure /etc/ros removal
+### ensure /etc/ros removal
 ```
 sudo rm -rf /etc/ros/
 ```
