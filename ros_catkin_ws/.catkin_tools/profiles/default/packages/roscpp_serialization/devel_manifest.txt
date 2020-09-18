@@ -1,0 +1,6 @@
+roscpp_core/roscpp_serialization
+/home/koki/ros_catkin_ws/devel/.private/roscpp_serialization/cmake.lock /home/koki/ros_catkin_ws/devel/./cmake.lock
+/home/koki/ros_catkin_ws/devel/.private/roscpp_serialization/lib/libroscpp_serialization.so /home/koki/ros_catkin_ws/devel/lib/libroscpp_serialization.so
+/home/koki/ros_catkin_ws/devel/.private/roscpp_serialization/lib/pkgconfig/roscpp_serialization.pc /home/koki/ros_catkin_ws/devel/lib/pkgconfig/roscpp_serialization.pc
+/home/koki/ros_catkin_ws/devel/.private/roscpp_serialization/share/roscpp_serialization/cmake/roscpp_serializationConfig-version.cmake /home/koki/ros_catkin_ws/devel/share/roscpp_serialization/cmake/roscpp_serializationConfig-version.cmake
+/home/koki/ros_catkin_ws/devel/.private/roscpp_serialization/share/roscpp_serialization/cmake/roscpp_serializationConfig.cmake /home/koki/ros_catkin_ws/devel/share/roscpp_serialization/cmake/roscpp_serializationConfig.cmake

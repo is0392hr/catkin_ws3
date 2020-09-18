@@ -1,0 +1,8 @@
+prefix=/home/koki/ros_catkin_ws/devel_isolated/rostest
+
+Name: rostest
+Description: Description of rostest
+Version: 1.14.9
+Cflags: -I/home/koki/ros_catkin_ws/src/ros_comm/rostest/include -I/usr/include
+Libs: -L${prefix}/lib /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_thread.so -lpthread /usr/lib/x86_64-linux-gnu/libboost_chrono.so /usr/lib/x86_64-linux-gnu/libboost_date_time.so /usr/lib/x86_64-linux-gnu/libboost_atomic.so
+Requires: 

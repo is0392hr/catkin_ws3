@@ -1,0 +1,8 @@
+prefix=/home/koki/ros_catkin_ws/install_isolated
+
+Name: urdf_tutorial
+Description: Description of urdf_tutorial
+Version: 0.4.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

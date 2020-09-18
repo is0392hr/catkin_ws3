@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rosdiagnostic
+Version: 1.9.7
+Summary: Command to print aggregated diagnostic contents to the command line
+Home-page: UNKNOWN
+Author: Guillaume Autran
+Author-email: gautran@clearpath.ai
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

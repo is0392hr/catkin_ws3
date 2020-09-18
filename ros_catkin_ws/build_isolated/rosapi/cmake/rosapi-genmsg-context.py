@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = "/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/msg/TypeDef.msg"
+services_str = "/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/DeleteParam.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/GetActionServers.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/GetParam.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/GetParamNames.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/GetTime.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/HasParam.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/MessageDetails.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/Nodes.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/NodeDetails.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/Publishers.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/SearchParam.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/ServiceHost.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/ServiceNode.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/ServiceProviders.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/ServiceRequestDetails.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/ServiceResponseDetails.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/Services.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/ServicesForType.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/ServiceType.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/SetParam.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/Subscribers.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/Topics.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/TopicsAndRawTypes.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/TopicsForType.srv;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/srv/TopicType.srv"
+pkg_name = "rosapi"
+dependencies_str = ""
+langs = "gencpp;geneus;genlisp;gennodejs;genpy"
+dep_include_paths_str = "rosapi;/home/koki/ros_catkin_ws/src/rosbridge_suite/rosapi/msg"
+PYTHON_EXECUTABLE = "/usr/bin/python3"
+package_has_static_sources = 'TRUE' == 'TRUE'
+genmsg_check_deps_script = "/home/koki/ros_catkin_ws/install_isolated/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"

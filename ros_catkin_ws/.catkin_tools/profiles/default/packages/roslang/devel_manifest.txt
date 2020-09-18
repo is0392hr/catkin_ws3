@@ -1,0 +1,5 @@
+ros/roslang
+/home/koki/ros_catkin_ws/devel/.private/roslang/cmake.lock /home/koki/ros_catkin_ws/devel/./cmake.lock
+/home/koki/ros_catkin_ws/devel/.private/roslang/lib/pkgconfig/roslang.pc /home/koki/ros_catkin_ws/devel/lib/pkgconfig/roslang.pc
+/home/koki/ros_catkin_ws/devel/.private/roslang/share/roslang/cmake/roslangConfig-version.cmake /home/koki/ros_catkin_ws/devel/share/roslang/cmake/roslangConfig-version.cmake
+/home/koki/ros_catkin_ws/devel/.private/roslang/share/roslang/cmake/roslangConfig.cmake /home/koki/ros_catkin_ws/devel/share/roslang/cmake/roslangConfig.cmake

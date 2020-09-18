@@ -1,0 +1,8 @@
+prefix=/home/koki/ros_catkin_ws/devel_isolated/opencv3
+
+Name: opencv3
+Description: Description of opencv3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

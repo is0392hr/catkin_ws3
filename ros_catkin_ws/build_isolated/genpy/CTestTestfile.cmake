@@ -1,0 +1,10 @@
+# CMake generated Testfile for 
+# Source directory: /home/koki/ros_catkin_ws/src/genpy
+# Build directory: /home/koki/ros_catkin_ws/build_isolated/genpy
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_genpy_nosetests_test "/home/koki/ros_catkin_ws/build_isolated/genpy/catkin_generated/env_cached.sh" "/usr/bin/python3" "/home/koki/ros_catkin_ws/install_isolated/share/catkin/cmake/test/run_tests.py" "/home/koki/ros_catkin_ws/build_isolated/genpy/test_results/genpy/nosetests-test.xml" "--return-code" "\"/home/koki/.local/lib/python3.6/site-packages/cmake/data/bin/cmake\" -E make_directory /home/koki/ros_catkin_ws/build_isolated/genpy/test_results/genpy" "/usr/bin/nosetests3 -P --process-timeout=60 --where=/home/koki/ros_catkin_ws/src/genpy/test --with-xunit --xunit-file=/home/koki/ros_catkin_ws/build_isolated/genpy/test_results/genpy/nosetests-test.xml")
+set_tests_properties(_ctest_genpy_nosetests_test PROPERTIES  _BACKTRACE_TRIPLES "/home/koki/ros_catkin_ws/install_isolated/share/catkin/cmake/test/tests.cmake;160;add_test;/home/koki/ros_catkin_ws/install_isolated/share/catkin/cmake/test/nosetests.cmake;83;catkin_run_tests_target;/home/koki/ros_catkin_ws/src/genpy/CMakeLists.txt;28;catkin_add_nosetests;/home/koki/ros_catkin_ws/src/genpy/CMakeLists.txt;0;")
+subdirs("gtest")
+subdirs("scripts")

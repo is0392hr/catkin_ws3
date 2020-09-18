@@ -1,0 +1,196 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following NEW packages will be installed:
+  python3-rospkg
+0 upgraded, 1 newly installed, 0 to remove and 56 not upgraded.
+Need to get 0 B/2,106 B of archives.
+After this operation, 17.4 kB of additional disk space will be used.
+Selecting previously unselected package python3-rospkg.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 593782 files and directories currently installed.)
+Preparing to unpack .../python3-rospkg_1.2.8-100_all.deb ...
+Unpacking python3-rospkg (1.2.8-100) ...
+Setting up python3-rospkg (1.2.8-100) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pyqt5.qtopengl is already the newest version (5.10.1+dfsg-1ubuntu2).
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-opengl is already the newest version (3.1.0+dfsg-1).
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-psutil is already the newest version (5.4.2-1ubuntu0.1).
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-matplotlib is already the newest version (2.1.1-2ubuntu3).
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following NEW packages will be installed:
+  python3-catkin-pkg
+0 upgraded, 1 newly installed, 0 to remove and 56 not upgraded.
+Need to get 0 B/3,484 B of archives.
+After this operation, 25.6 kB of additional disk space will be used.
+Selecting previously unselected package python3-catkin-pkg.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 593791 files and directories currently installed.)
+Preparing to unpack .../python3-catkin-pkg_0.4.22-100_all.deb ...
+Unpacking python3-catkin-pkg (0.4.22-100) ...
+Setting up python3-catkin-pkg (0.4.22-100) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-mock is already the newest version (2.0.0-3).
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-opencv is already the newest version (3.2.0+dfsg-4ubuntu0.1).
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-mock is already the newest version (2.0.0-3).
+The following packages were automatically installed and are no longer required:
+  festival festlex-cmu festlex-poslex festvox-kallpc16k libestools2.5
+  python-avahi python-backports.functools-lru-cache python-cycler
+  python-decorator python-defusedxml python-empy python-gdbm python-gnupg
+  python-matplotlib python-netifaces python-networkx python-opencv
+  python-paramiko python-pycryptodome python-pyqt5.qtsvg python-pywt
+  python-rosdep-modules python-rosdistro python-rosdistro-modules
+  python-rospkg python-rospkg-modules python-scipy python-skimage
+  python-skimage-lib python-subprocess32 python-tz python-wxtools
+  python3-rosdistro-modules screen
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-opengl is already the newest version (3.1.0+dfsg-1).
+The following packages were automatically installed and are no longer required:
+  festival festlex-cmu festlex-poslex festvox-kallpc16k libestools2.5
+  python-avahi python-backports.functools-lru-cache python-cycler
+  python-decorator python-defusedxml python-empy python-gdbm python-gnupg
+  python-matplotlib python-netifaces python-networkx python-opencv
+  python-paramiko python-pycryptodome python-pyqt5.qtsvg python-pywt
+  python-rosdep-modules python-rosdistro python-rosdistro-modules
+  python-rospkg python-rospkg-modules python-scipy python-skimage
+  python-skimage-lib python-subprocess32 python-tz python-wxtools
+  python3-rosdistro-modules screen
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pydot is already the newest version (1.2.3-1).
+The following packages were automatically installed and are no longer required:
+  festival festlex-cmu festlex-poslex festvox-kallpc16k libestools2.5
+  python-avahi python-backports.functools-lru-cache python-cycler
+  python-decorator python-defusedxml python-empy python-gdbm python-gnupg
+  python-matplotlib python-netifaces python-networkx python-opencv
+  python-paramiko python-pycryptodome python-pyqt5.qtsvg python-pywt
+  python-rosdep-modules python-rosdistro python-rosdistro-modules
+  python-rospkg python-rospkg-modules python-scipy python-skimage
+  python-skimage-lib python-subprocess32 python-tz python-wxtools
+  python3-rosdistro-modules screen
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pygraphviz is already the newest version (1.4~rc1-1build2.1).
+The following packages were automatically installed and are no longer required:
+  festival festlex-cmu festlex-poslex festvox-kallpc16k libestools2.5
+  python-avahi python-backports.functools-lru-cache python-cycler
+  python-decorator python-defusedxml python-empy python-gdbm python-gnupg
+  python-matplotlib python-netifaces python-networkx python-opencv
+  python-paramiko python-pycryptodome python-pyqt5.qtsvg python-pywt
+  python-rosdep-modules python-rosdistro python-rosdistro-modules
+  python-rospkg python-rospkg-modules python-scipy python-skimage
+  python-skimage-lib python-subprocess32 python-tz python-wxtools
+  python3-rosdistro-modules screen
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-coverage is already the newest version (4.5+dfsg.1-3).
+The following packages were automatically installed and are no longer required:
+  festival festlex-cmu festlex-poslex festvox-kallpc16k libestools2.5
+  python-avahi python-backports.functools-lru-cache python-cycler
+  python-decorator python-defusedxml python-empy python-gdbm python-gnupg
+  python-matplotlib python-netifaces python-networkx python-opencv
+  python-paramiko python-pycryptodome python-pyqt5.qtsvg python-pywt
+  python-rosdep-modules python-rosdistro python-rosdistro-modules
+  python-rospkg python-rospkg-modules python-scipy python-skimage
+  python-skimage-lib python-subprocess32 python-tz python-wxtools
+  python3-rosdistro-modules screen
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pyqt5.qtopengl is already the newest version (5.10.1+dfsg-1ubuntu2).
+The following packages were automatically installed and are no longer required:
+  festival festlex-cmu festlex-poslex festvox-kallpc16k libestools2.5
+  python-avahi python-backports.functools-lru-cache python-cycler
+  python-decorator python-defusedxml python-empy python-gdbm python-gnupg
+  python-matplotlib python-netifaces python-networkx python-opencv
+  python-paramiko python-pycryptodome python-pyqt5.qtsvg python-pywt
+  python-rosdep-modules python-rosdistro python-rosdistro-modules
+  python-rospkg python-rospkg-modules python-scipy python-skimage
+  python-skimage-lib python-subprocess32 python-tz python-wxtools
+  python3-rosdistro-modules screen
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-cairo is already the newest version (1.16.2-1).
+The following packages were automatically installed and are no longer required:
+  festival festlex-cmu festlex-poslex festvox-kallpc16k libestools2.5
+  python-avahi python-backports.functools-lru-cache python-cycler
+  python-decorator python-defusedxml python-empy python-gdbm python-gnupg
+  python-matplotlib python-netifaces python-networkx python-opencv
+  python-paramiko python-pycryptodome python-pyqt5.qtsvg python-pywt
+  python-rosdep-modules python-rosdistro python-rosdistro-modules
+  python-rospkg python-rospkg-modules python-scipy python-skimage
+  python-skimage-lib python-subprocess32 python-tz python-wxtools
+  python3-rosdistro-modules screen
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-psutil is already the newest version (5.4.2-1ubuntu0.1).
+The following packages were automatically installed and are no longer required:
+  festival festlex-cmu festlex-poslex festvox-kallpc16k libestools2.5
+  python-avahi python-backports.functools-lru-cache python-cycler
+  python-decorator python-defusedxml python-empy python-gdbm python-gnupg
+  python-matplotlib python-netifaces python-networkx python-opencv
+  python-paramiko python-pycryptodome python-pyqt5.qtsvg python-pywt
+  python-rosdep-modules python-rosdistro python-rosdistro-modules
+  python-rospkg python-rospkg-modules python-scipy python-skimage
+  python-skimage-lib python-subprocess32 python-tz python-wxtools
+  python3-rosdistro-modules screen
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 56 not upgraded.

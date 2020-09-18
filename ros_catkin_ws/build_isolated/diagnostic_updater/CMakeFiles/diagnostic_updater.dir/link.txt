@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libdiagnostic_updater.so -o /home/koki/ros_catkin_ws/devel_isolated/diagnostic_updater/lib/libdiagnostic_updater.so CMakeFiles/diagnostic_updater.dir/src/timestamp_status.cpp.o 

@@ -1,0 +1,8 @@
+prefix=/home/koki/catkin_ws/install
+
+Name: catkin
+Description: Description of catkin
+Version: 0.7.28
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/koki/ros_catkin_ws/devel_isolated/test_bond
+
+Name: test_bond
+Description: Description of test_bond
+Version: 1.8.6
+Cflags: -I/home/koki/ros_catkin_ws/devel_isolated/test_bond/include
+Libs: -L${prefix}/lib 
+Requires: 

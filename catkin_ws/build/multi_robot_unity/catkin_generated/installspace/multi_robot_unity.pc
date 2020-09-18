@@ -1,0 +1,8 @@
+prefix=/home/koki/catkin_ws/install
+
+Name: multi_robot_unity
+Description: Description of multi_robot_unity
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

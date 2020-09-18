@@ -1,0 +1,2 @@
+/home/koki/ros_catkin_ws/install/lib/python3/dist-packages/PyKDL.so
+/home/koki/ros_catkin_ws/install/share/python_orocos_kdl/package.xml

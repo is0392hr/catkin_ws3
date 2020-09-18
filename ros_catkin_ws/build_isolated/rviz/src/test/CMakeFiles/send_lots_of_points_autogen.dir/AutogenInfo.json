@@ -1,0 +1,81 @@
+{
+	"BUILD_DIR" : "/home/koki/ros_catkin_ws/build_isolated/rviz/src/test/send_lots_of_points_autogen",
+	"CMAKE_BINARY_DIR" : "/home/koki/ros_catkin_ws/build_isolated/rviz",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/koki/ros_catkin_ws/build_isolated/rviz/src/test",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/koki/ros_catkin_ws/src/rviz/src/test",
+	"CMAKE_EXECUTABLE" : "/home/koki/.local/lib/python3.6/site-packages/cmake/data/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/koki/ros_catkin_ws/src/rviz",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/koki/ros_catkin_ws/build_isolated/rviz/src/test/send_lots_of_points_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/koki/ros_catkin_ws/build_isolated/rviz/src/test/send_lots_of_points_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"ASSIMP_UNIFIED_HEADER_NAMES",
+		"QT_NO_KEYWORDS",
+		"ROSCONSOLE_BACKEND_LOG4CXX",
+		"ROS_BUILD_SHARED_LIBS=1",
+		"ROS_PACKAGE_NAME=\"rviz\""
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/koki/ros_catkin_ws/build_isolated/rviz/src/test",
+		"/home/koki/ros_catkin_ws/src/rviz/src/test",
+		"/home/koki/ros_catkin_ws/devel_isolated/rviz/include",
+		"/usr/lib/include",
+		"/home/koki/ros_catkin_ws/src/rviz/src",
+		"/usr/include/eigen3",
+		"/usr/include/OGRE/Overlay",
+		"/usr/include/OGRE",
+		"/usr/include/python3.6m",
+		"/home/koki/ros_catkin_ws/install_isolated/include",
+		"/home/koki/ros_catkin_ws/install_isolated/include/xmlrpcpp",
+		"/usr/include",
+		"/usr/include/c++/7",
+		"/usr/include/x86_64-linux-gnu/c++/7",
+		"/usr/include/c++/7/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/koki/.local/lib/python3.6/site-packages/cmake/data/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/koki/ros_catkin_ws/build_isolated/rviz/src/test/send_lots_of_points_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 16,
+	"PARSE_CACHE_FILE" : "/home/koki/ros_catkin_ws/build_isolated/rviz/src/test/CMakeFiles/send_lots_of_points_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "/home/koki/ros_catkin_ws/build_isolated/rviz/src/test/CMakeFiles/send_lots_of_points_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/koki/ros_catkin_ws/src/rviz/src/test/send_lots_of_points_node.cpp",
+			"Mu"
+		]
+	],
+	"VERBOSITY" : 0
+}

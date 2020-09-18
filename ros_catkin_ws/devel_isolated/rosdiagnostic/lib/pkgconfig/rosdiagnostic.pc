@@ -1,0 +1,8 @@
+prefix=/home/koki/ros_catkin_ws/devel_isolated/rosdiagnostic
+
+Name: rosdiagnostic
+Description: Description of rosdiagnostic
+Version: 1.9.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

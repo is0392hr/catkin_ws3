@@ -1,0 +1,8 @@
+prefix=/home/koki/ros_catkin_ws/devel_isolated/laser_geometry
+
+Name: laser_geometry
+Description: Description of laser_geometry
+Version: 1.6.5
+Cflags: -I/home/koki/ros_catkin_ws/src/laser_geometry/include -I/usr/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -llaser_geometry /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_thread.so -lpthread /usr/lib/x86_64-linux-gnu/libboost_chrono.so /usr/lib/x86_64-linux-gnu/libboost_date_time.so /usr/lib/x86_64-linux-gnu/libboost_atomic.so
+Requires: tf tf2

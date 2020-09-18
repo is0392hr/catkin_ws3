@@ -1,0 +1,8 @@
+ros_comm/rosmaster
+/home/koki/ros_catkin_ws/devel/.private/rosmaster/cmake.lock /home/koki/ros_catkin_ws/devel/./cmake.lock
+/home/koki/ros_catkin_ws/devel/.private/rosmaster/bin/rosmaster /home/koki/ros_catkin_ws/devel/bin/rosmaster
+/home/koki/ros_catkin_ws/devel/.private/rosmaster/bin/cmake.lock /home/koki/ros_catkin_ws/devel/bin/cmake.lock
+/home/koki/ros_catkin_ws/devel/.private/rosmaster/lib/pkgconfig/rosmaster.pc /home/koki/ros_catkin_ws/devel/lib/pkgconfig/rosmaster.pc
+/home/koki/ros_catkin_ws/devel/.private/rosmaster/lib/python2.7/dist-packages/rosmaster/__init__.py /home/koki/ros_catkin_ws/devel/lib/python2.7/dist-packages/rosmaster/__init__.py
+/home/koki/ros_catkin_ws/devel/.private/rosmaster/share/rosmaster/cmake/rosmasterConfig-version.cmake /home/koki/ros_catkin_ws/devel/share/rosmaster/cmake/rosmasterConfig-version.cmake
+/home/koki/ros_catkin_ws/devel/.private/rosmaster/share/rosmaster/cmake/rosmasterConfig.cmake /home/koki/ros_catkin_ws/devel/share/rosmaster/cmake/rosmasterConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/koki/ros_catkin_ws/install_isolated
+
+Name: rviz_python_tutorial
+Description: Description of rviz_python_tutorial
+Version: 0.10.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

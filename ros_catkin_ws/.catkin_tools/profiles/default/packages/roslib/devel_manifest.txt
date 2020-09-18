@@ -1,0 +1,9 @@
+ros/roslib
+/home/koki/ros_catkin_ws/devel/.private/roslib/cmake.lock /home/koki/ros_catkin_ws/devel/./cmake.lock
+/home/koki/ros_catkin_ws/devel/.private/roslib/lib/libroslib.so /home/koki/ros_catkin_ws/devel/lib/libroslib.so
+/home/koki/ros_catkin_ws/devel/.private/roslib/lib/pkgconfig/roslib.pc /home/koki/ros_catkin_ws/devel/lib/pkgconfig/roslib.pc
+/home/koki/ros_catkin_ws/devel/.private/roslib/lib/python2.7/dist-packages/ros/__init__.py /home/koki/ros_catkin_ws/devel/lib/python2.7/dist-packages/ros/__init__.py
+/home/koki/ros_catkin_ws/devel/.private/roslib/lib/python2.7/dist-packages/roslib/__init__.py /home/koki/ros_catkin_ws/devel/lib/python2.7/dist-packages/roslib/__init__.py
+/home/koki/ros_catkin_ws/devel/.private/roslib/share/roslib/cmake/roslibConfig.cmake /home/koki/ros_catkin_ws/devel/share/roslib/cmake/roslibConfig.cmake
+/home/koki/ros_catkin_ws/devel/.private/roslib/share/roslib/cmake/roslibConfig-version.cmake /home/koki/ros_catkin_ws/devel/share/roslib/cmake/roslibConfig-version.cmake
+/home/koki/ros_catkin_ws/devel/.private/roslib/share/roslib/cmake/roslib-extras.cmake /home/koki/ros_catkin_ws/devel/share/roslib/cmake/roslib-extras.cmake

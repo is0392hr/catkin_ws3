@@ -1,0 +1,8 @@
+prefix=/home/koki/ros_catkin_ws/install_isolated
+
+Name: rosbridge_server
+Description: Description of rosbridge_server
+Version: 0.11.10
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
