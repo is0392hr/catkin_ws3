@@ -1,78 +1,88 @@
 # catkin_ws3
-
-# ensure there are no ros packages
+If you have installed ROS before then run followings:
+## ensure there are no ros packages
+```
 sudo apt-get remove --autoremove ros-*
-
-# check for updates
+```
+## check for updates
+```
 sudo apt update
-
-# ensure /etc/ros removal
+```
+## ensure /etc/ros removal
+```
 sudo rm -rf /etc/ros/
+```
 
 # install the python3 libraries
+```
 sudo apt install -y python3 python3-dev python3-pip build-essential
-
+```
 # Remove python2
+```
 sudo apt purge -y python2.7-minimal
-
+```
 # link python -> python3
+```
 sudo ln -s /usr/bin/python3 /usr/bin/python
-
+```
 # Same for pip
+```
 sudo ln -s /usr/bin/pip3 /usr/bin/pip
-
+```
 # install the ros dependencies
+```
 sudo -H pip3 install --no-cache-dir --ignore-installed rosdep rospkg rosinstall_generator rosinstall wstool vcstools catkin_tools catkin_pkg
-
+```
 # initialize catkin build environment
+```
 sudo rosdep init && rosdep update
-
-# create catkin workspace
-mkdir -p ~/ros_catkin_ws/src && cd "$_/.."
-
-# initialize catkin workspace (will show warning about Extending... ignore that)
-catkin config --init -DCMAKE_BUILD_TYPE=Release --blacklist rqt_rviz rviz_plugin_tutorials librviz_tutorial --install
-
-# generate a ros melodic install
-rosinstall_generator desktop_full --rosdistro melodic --deps --tar > melodic-desktop-full.rosinstall
-
-# initialize the install
-wstool init -j8 src melodic-desktop-full.rosinstall
-
+```
 # setup environment and isntall dependencies
+```
+cd ~/ROS_catkin_ws
 export ROS_PYTHON_VERSION=3
-
+```
 # install wxPython
+Install wxpython from this site https://extras.wxpython.org/wxPython4/extras/linux/gtk3/
+If you are Ubuntu-18.04 then you can run this below;
+```
 pip3 install -U -f https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-18.04 wxPython
-   # pip3 install -U -f --no-cache-dir --ignore-installed https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-18.04 wxPython
-
-# create install_skip file
-printf '#/bin/bash\nif [ $(whoami) != root ]; then\n    echo You must be root or use sudo to install packages.\n    return\nfi\n\nfor pkg in "$@"\ndo\n    echo "Installing $pkg"\n    sudo apt-get -my install $pkg >> install.log\ndone' > install_skip
-
-# make file executable
-chmod +x install_skip
-
-# install python 3 packages
-sudo ./install_skip `rosdep check --from-paths src --ignore-src | grep python | sed -e "s/^apt\t//g" | sed -z "s/\n/ /g" | sed -e "s/\<python\>/python3/g"`
-
-# skip python 2 packages
-rosdep install --from-paths src --ignore-src -y --skip-keys="`rosdep check --from-paths src --ignore-src | grep python | sed -e "s/^apt\t//g" | sed -z "s/\n/ /g"`"
-
-# rename all old python links to python3
-find . -type f -exec sed -i 's/\/usr\/bin\/env[ ]*\<python\>/\/usr\/bin\/env python3/g' {} +
-
+```
 # build ros
-catkin build
+```
+sudo chmod +x catkin_make_isolated
+./catkin_make_isolated
+```
 
 # export python path
+```
 export PYTHONPATH=/usr/lib/python3/dist-packages
-
+```
 # source setup
-source ~/ros_catkin_ws/install/setup.bash
-
+```
+source ~/ros_catkin_ws/install_isolated/setup.bash
+```
 
 #install missing python3 packages
+```
 pip3 install pyOpenSSL twisted autobahn bson hyperopt hyperas
 pip3 uninstall bson
 pip3 install pymongo
 sudo -H pip3 install service_identity
+```
+#Build catkin_ws
+```
+cd ~/catkin_ws
+chmod +x catkin_make
+./catkin_make
+source ~/catkin_ws/devel/setup.bash
+```
+I recommend to add
+```
+source ~/ros_catkin_ws/install_isolated/setup.bash
+```
+and
+```
+source ~/catkin_ws/devel/setup.bash
+```
+to your ~/.bashrc
